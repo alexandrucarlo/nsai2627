@@ -6,7 +6,7 @@ a. Care e legătura între completitudine și decidabilitate? [O logică complet
 
 b. Este logica propozițională booleană [decidabilă](https://iep.utm.edu/propositional-logic-sentential-logic/#H7)? 
 
-c. Dar cea multivaluată? 
+c. Dar cea [multivaluată](https://plato.stanford.edu/entries/logic-manyvalued/#ContTrutValu)? 
 
 d. Este logica de ordinul întâi completă? Dar [decidabilă](http://kilby.stanford.edu/~rvg/154/handouts/fol.html)? 
 
