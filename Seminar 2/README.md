@@ -1,4 +1,4 @@
-# Seminar 01 -- Logici clasice. Logici multivaluate
+# Seminar 02 -- Logici clasice. Logici multivaluate
 
 ## 1. Proprietăți ale logicilor
 
