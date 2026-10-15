@@ -1,4 +1,4 @@
-# 01 -- Logici clasice. Logici multivaluate
+# 02 -- Logici clasice. Logici multivaluate
 
 ## Logică propozițională. Logică de ordinul întâi
 
