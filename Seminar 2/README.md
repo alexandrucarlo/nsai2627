@@ -3,8 +3,11 @@
 ## 1. Proprietăți ale logicilor
 
 a. Care e legătura între completitudine și decidabilitate? [O logică completă este neapărat și decidabilă](https://cdn.bookey.app/files/pdf/book/en/logicomix.pdf)?
+
 b. Este logica propozițională booleană [decidabilă](https://iep.utm.edu/propositional-logic-sentential-logic/#H7)? 
+
 c. Dar cea multivaluată? 
+
 d. Este logica de ordinul întâi completă? Dar [decidabilă](http://kilby.stanford.edu/~rvg/154/handouts/fol.html)? 
 
 ## 2. [Algebre Boole](https://en.wikipedia.org/wiki/Boolean_algebra_%28structure%29)
