@@ -11,7 +11,9 @@ d. Este logica de ordinul întâi completă? Dar [decidabilă](http://kilby.stan
 
 a. Arătați că următoarele rezultate sunt echivalente, pentru orice elemente a și b într-o algebră Boole:
 	i. a → b = b
+	
 	ii. b → a = a
+	
 	iii. a ∨ b = 1
 
 b. Este afirmația adevărată pentru latici reziduate? 
